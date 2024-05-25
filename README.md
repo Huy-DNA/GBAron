@@ -5,6 +5,6 @@ A gameboy emulator written in Rust.
 
 # Reference
 1. [copetti](https://www.copetti.org/writings/consoles/game-boy-advance/#the-cambridge-miracle) - Game Boy Advance architecture book
-2. [pandocs](https://bgb.bircd.org/pandocs.htm) - Formal specification of GBA
+2. [pandocs](https://gbdev.io/pandocs/About.html) - Formal specification of GBA
 3. [rylev](https://rylev.github.io/DMG-01/public/book/introduction.html) - A tutorial on how to emulate a gameboy in Rust
 
