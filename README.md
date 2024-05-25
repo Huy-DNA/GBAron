@@ -1,5 +1,7 @@
 # GBAron
-A gameboy emulator written in Rust
+A gameboy emulator written in Rust.
+
+![aron](https://github.com/Huy-DNA/GBAron/assets/139191192/7d59c1b6-241b-4c7e-a93e-30aa300e7a42)
 
 # Reference
 1. [tonc](https://www.coranac.com/tonc/text/toc.htm) - A GBA mechanics reference
